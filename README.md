@@ -11,8 +11,8 @@
  
 ## GitHub metrics
 <div align="center">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=heliribeiro&show_icons=true" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=heliribeiro&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=heliribeiro&show_icons=true&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=heliribeiro&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </div>
 
 
