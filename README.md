@@ -3,7 +3,7 @@
 
 - 🔥 Computer engineer && Full Stack Developer
 
-- 💬 Ask me about **JavaScript, Typescript, Node.JS, PHP, Laravel**
+- 💬 Ask me about **JavaScript, Typescript, Node.JS, React, Next.js PHP, Laravel**
 
 - 🌱 Studying whatsapp automation
 
