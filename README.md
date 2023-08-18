@@ -13,6 +13,9 @@
 <div align="center">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=heliribeiro&show_icons=true" />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=heliribeiro&layout=compact&langs_count=8&card_width=320" />
+ <br/>
+ <br/>
+ <img style="width:26rem" src="https://github-readme-streak-stats.herokuapp.com?user=heliribeiro&exclude_days=Sun%2CSat"></img>
 </div>
 
 
@@ -22,3 +25,4 @@
   <a href = "mailto:heliribeiro2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/heli-ribeiro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
