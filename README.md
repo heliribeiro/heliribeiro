@@ -3,9 +3,9 @@
 
 - 🔥 Computer engineer && Full Stack Developer
 
-- 💬 Ask me about **JavaScript, Typescript, Node.JS, React, Next.js, React Native, PHP, Laravel**
+- 💬 Ask me about **JavaScript, Typescript, Node.JS, React, MongoDB, k8s**
 
-- 🌱 Studying whatsapp automation
+- 🌱 Studying node, k8s, mongodb...
 
 - 📋 Learning english 
  
