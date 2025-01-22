@@ -1,13 +1,13 @@
 <h1 align="left">Hi 👋, I'm Heli Ribeiro</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heliribeiro&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Computer engineer && Full Stack Developer
+- 🔥 Computer engineer && Software Enginner
 
 - 💬 Ask me about **JavaScript, Typescript, Node.JS, React, MongoDB, k8s**
 
 - 🌱 Studying node, k8s, mongodb...
 
-- 📋 Learning english 
+- 📋 Improving english (B2+)
  
 ## GitHub metrics
 <div align="center">
