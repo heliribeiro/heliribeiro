@@ -7,7 +7,7 @@
 
 - 🌱 Studying node, k8s, mongodb...
 
-- 📋 Improving english (B2+)
+- 🗣️ English (B2+)
  
 ## GitHub metrics
 <div align="center">
