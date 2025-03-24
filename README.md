@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **JavaScript, Typescript, Node.JS, React, MongoDB, k8s**
 
-- 🌱 Studying node, k8s, mongodb...
+- 🌱 Studying node, k8s, mongodb, Next.js...
 
 - 🗣️ English (B2+)
  
